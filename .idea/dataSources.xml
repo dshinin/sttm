@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1025142120">
+    <data-source source="LOCAL" name="Data Source" uuid="41187b38-63d0-4b9e-9441-5689488ca70b">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\\Users\dshin_000\PycharmProjects\github-sttm\db\test.db</jdbc-url>
+      <default-dialect>SQLite</default-dialect>
+      <libraries>
+        <library>
+          <url>jar://$PROJECT_DIR$/../plug/sqlite-jdbc-3.7.2.jar!/</url>
+        </library>
+        <library>
+          <url>file://$PROJECT_DIR$/../plug/xerial-sqlite-license.txt</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
